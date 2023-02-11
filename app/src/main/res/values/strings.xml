@@ -10,5 +10,5 @@
 
     <string name="hello_username">Username:</string>
     <string name="hello_password">Password:</string>
-    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="hello_code">Code:</string>
 </resources>
